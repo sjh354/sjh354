@@ -33,8 +33,8 @@
   <img
     src="https://img.shields.io/badge/-Instagram-9cf?logo=instagram&style=flat"
   />
-  /* https://shields.io/
-  https://simpleicons.org/ */
+  <!-- https://shields.io/
+  https://simpleicons.org/ -->
 </div>
 
 <h2>Algorithms...</h2>
