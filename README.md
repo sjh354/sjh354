@@ -77,10 +77,8 @@ Some topics I'm currently exploring:
 
 ## 📈 GitHub Stats
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjh354&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjh354&layout=compact&theme=transparent" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjh354&theme=default)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
